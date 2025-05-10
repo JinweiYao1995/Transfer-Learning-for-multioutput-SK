@@ -1,6 +1,6 @@
-# Simulation for Boxplot of Fig. 5 (RMSE Results)
+# Transfer Learning for Multi-output Stochastic Kriging
 
-To replicate the simulation results for the boxplot in **Fig. 6** of the manuscript, simply run the `box_pd.R` script. This one-click execution integrates all benchmark methods and the proposed approach.
+To replicate the simulation results for the boxplot in **Fig. 5** of the manuscript, simply run the `box_pd.R` script. This one-click execution integrates all benchmark methods and the proposed approach.
 
 ## Required R Packages
 
